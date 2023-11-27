@@ -1,0 +1,15 @@
+{
+  "welcome": "Willkommen {0}, wie geht es dir?",
+  "home": "Haupts�chlich",
+  "privacy": "Privatsph�re",
+  "culture": "Kultur",
+  "uiCulture": "Benutzeroberfl�che Kultur",
+  "date": "Datum",
+  "currency": "W�hrung",
+  "numbers": "Zahlen",
+  "create": "Addieren",
+  "save": "Speichern",
+  "name": "Name",
+  "required": "Pflichtfeld",
+  "Email": "email address is required"
+}
